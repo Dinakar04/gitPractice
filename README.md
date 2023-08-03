@@ -26,6 +26,7 @@
 # after conflict
 
 # try to push on Dinakar  but stays on Main
+# push aafter pull from main
 
 # after pulling from
 
